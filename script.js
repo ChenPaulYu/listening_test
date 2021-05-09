@@ -10,6 +10,9 @@ $(document).ready(function () {
     ]
 
     index = Math.floor(Math.random() * urls.length)
-    window.location.href = urls[index]
+
+    $('#web').attr('src', urls[index])
+
+    console.log('load')
 
 })
