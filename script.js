@@ -8,7 +8,7 @@ $(document).ready(function () {
 //         'https://www.surveycake.com/s/6WXOW', 
         'https://www.surveycake.com/s/nwPWa',
         'https://www.surveycake.com/s/amPoN',
-        'https://www.surveycake.com/s/BQRXg',
+//         'https://www.surveycake.com/s/BQRXg',
     ]
     
     
